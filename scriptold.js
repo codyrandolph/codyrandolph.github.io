@@ -1,6 +1,6 @@
 $(function() {
 	var imgStart = 0;
-	var imgEnd = 23;
+	var imgEnd = 35;
 
 	var images = [];
 
