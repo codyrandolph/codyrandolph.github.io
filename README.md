@@ -1,7 +1,7 @@
-# First Startpagek
+# First Startpage
 My first:
--Github Project
--Startpage
+..*Github Project
+..*Startpage
 
 Adaptation of breakfastb's startpage.
 
